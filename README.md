@@ -18,16 +18,6 @@ npm install
 
 ```
 
-After cloning the repo to get the JSON data from json-server, you should run the below commands.
-
-**For data**
-
-```
-json-server db.json --port 8000
-
-
-```
-
 **To run the react app execute the below command**
 
 ```
