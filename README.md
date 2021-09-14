@@ -1,4 +1,5 @@
 # Project-Skyscanner-clone
+
 Skyscanner Ltd. Skyscanner is a metasearch engine and travel agency based in Edinburgh, Scotland. The site is available in over 30 languages and is used by 100 million people per month. The company lets people research and book travel options for their trips, including flights, hotels, and car hire.
 </br>
 <img src="https://www.skyscanner.com.tr/sttc/blackbird/opengraph_solid_logo.png">  
@@ -93,7 +94,6 @@ npm run start
 
 <a href="https://ibb.co/SJDX0Ts"><img src="https://i.ibb.co/6NcRbhn/Screenshot-1105.png" alt="Screenshot-1105" border="0" width="400" ></a>
 </br>
-
 
 5.Payment Page
 </br>
